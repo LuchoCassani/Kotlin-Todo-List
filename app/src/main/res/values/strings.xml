@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">To do List</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="delete_done">Delete done</string>
+    <string name="what_s_next">What\'s next?</string>
+</resources>
